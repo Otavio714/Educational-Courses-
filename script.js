@@ -29,8 +29,11 @@ var swiper = new Swiper(".instituteSwiper", {
         400: {
             slidesPerView: 2,
         },
-        375:{
-            slidesPerView:1
+        375: {
+            slidesPerView: 1
+        },
+        360: {
+            slidesPerView: 1
         }
     }
 });
