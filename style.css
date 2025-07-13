@@ -1859,3 +1859,23 @@ header {
         width: 17rem;
     }
 }
+
+@media (max-width: 360px) {
+
+    .tn_icons {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    gap: 0;
+    }
+
+    .review {
+        left: 8rem;
+    }
+
+    .exp{
+        left: 9.1rem;
+    }
+
+
+}
