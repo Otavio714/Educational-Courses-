@@ -1877,5 +1877,7 @@ header {
         left: 9.1rem;
     }
 
-
+    .course_info_card .course_details {
+        margin-top: 30px;
+    }
 }
